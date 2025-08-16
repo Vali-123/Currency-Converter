@@ -22,10 +22,6 @@ Perfect for quick conversions, finance apps, and learning exchange rate applicat
 
 ---
 
-## 📂 Project Structure
-
----
-
 ## 🛠️ Installation  
 
 ### Clone the repository
