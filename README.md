@@ -22,6 +22,14 @@ Perfect for quick conversions, finance apps, and learning exchange rate applicat
 
 ---
 
+## 📂 Project Structure
+Currency-Converter/
+│── src/ # Source code files
+│── README.md # Project documentation
+│── LICENSE # License file
+│── requirements.txt # Dependencies (if Python)
+│── package.json # Dependencies (if Node.js)
+
 ## 🛠️ Installation  
 
 ### Clone the repository
