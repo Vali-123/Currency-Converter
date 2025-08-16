@@ -24,3 +24,25 @@ Perfect for quick conversions, finance apps, and learning exchange rate applicat
 
 ## 📂 Project Structure
 
+---
+
+## 🛠️ Installation  
+
+### Clone the repository
+```bash
+git clone https://github.com/Vali-123/Currency-Converter.git
+cd Currency-Converter
+# If Python
+pip install -r requirements.txt
+
+# If Node.js
+npm install
+python converter.py USD INR 100
+# or
+node index.js USD EUR 50
+100 USD = 8350 INR
+npm start
+API_KEY=your_api_key_here
+pytest   # Python
+npm test # Node.js
+
